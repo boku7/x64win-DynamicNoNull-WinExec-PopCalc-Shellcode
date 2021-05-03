@@ -7,6 +7,8 @@
 + Contains no Null bytes (0x00), and therefor will not crash if injected into typical stack Buffer OverFlow vulnerabilities.
 + Grew tired of Windows Defender alerts from MSF code when developing, so built this as a template for development of advanced payloads.
 
+![](popDatCalc.png)
+
 ## Compile & get shellcode from Kali:
 ```bash
 nasm -f win64 popcalc.asm -o popcalc.o
