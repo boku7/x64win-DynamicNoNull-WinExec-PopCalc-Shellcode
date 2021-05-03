@@ -1,4 +1,4 @@
-# Windows/x64 - Dynamic Null-Free WinExec PopCalc Shellcode (205 Bytes)
+# Windows/x64 - Dynamic Null-Free WinExec PopCalc Shellcode
 + Shellcode Author: Bobby Cooke (boku)
 + Date:             May 2nd, 2021
 + Tested on:        Windows 10 v2004 (x64)
